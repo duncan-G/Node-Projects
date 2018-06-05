@@ -44,4 +44,4 @@ exports.delete_a_task = (req, res) => {
         res.send(err);
       res.json({ message: 'Task successfully deleted' });
     });
-  };
+};
