@@ -1,1 +1,1 @@
-Simple todoListAPI made running on Express, Mongo and Docker.
+Simple todoListAPI running on Express, Mongo and Docker.
